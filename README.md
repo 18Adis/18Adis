@@ -29,15 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18Adis&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=18Adis&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 <p align="left">
   <a href="www.linkedin.com/in/adityashaju
