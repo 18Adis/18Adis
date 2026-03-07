@@ -13,7 +13,7 @@
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github,,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,sql,github" />
 </p>
 
 ---
