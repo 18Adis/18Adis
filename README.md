@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/18Adis/18Adis/main/assets/profile-banner.svg" width="100%" alt="Aditya Shaju — AI and Machine Learning. From data to models to useful applications." />
+  <img src="https://raw.githubusercontent.com/18Adis/18Adis/main/profile-banner.svg" width="100%" alt="Aditya Shaju — AI and Machine Learning. From data to models to useful applications." />
 </p>
 
 <p align="center">
