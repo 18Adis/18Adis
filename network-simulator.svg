@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+<title id="title">Go-Back-N ARQ Simulator</title>
+<desc id="desc">Sliding windows, acknowledgements &amp; retransmission.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1725"/><stop offset="1" stop-color="#112d35"/></linearGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#b1e8dc" stroke-opacity=".05"/></pattern></defs>
+<rect width="1100" height="220" rx="18" fill="url(#bg)"/>
+<rect width="1100" height="220" rx="18" fill="url(#grid)"/>
+<rect x="45" y="43" width="5" height="134" rx="2" fill="#6fe1c3"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="72" y="64" fill="#82e4cd" font-size="14" font-weight="600" letter-spacing="2.2">PYTHON / NETWORKING</text>
+<text x="70" y="117" fill="#f2f7fa" font-size="39" font-weight="700">Go-Back-N ARQ Simulator</text>
+
+<text x="72" y="159" fill="#afc8ce" font-size="17">Sliding windows, acknowledgements &amp; retransmission.</text>
+
+</g>
+<g transform="translate(930 107)" fill="none">
+<circle r="72" stroke="#6fe1c3" stroke-opacity=".17"/>
+<circle r="48" stroke="#6fe1c3" stroke-opacity=".22"/>
+<path d="M-63 -20L-19 -57L31 -35L62 21L8 58L-43 34Z M-63 -20L31 -35L8 58L-19 -57L62 21L-43 34Z" stroke="#6fe1c3" stroke-opacity=".45"/>
+<g fill="#83e6cf"><circle cx="-63" cy="-20" r="5"/><circle cx="-19" cy="-57" r="5"/><circle cx="31" cy="-35" r="5"/><circle cx="62" cy="21" r="5"/><circle cx="8" cy="58" r="5"/><circle cx="-43" cy="34" r="5"/></g>
+<circle r="8" fill="#efc38d"/><path d="M0 0L-63 -20M0 0L31 -35M0 0L8 58" stroke="#efc38d" stroke-opacity=".5"/>
+</g></svg>
+
